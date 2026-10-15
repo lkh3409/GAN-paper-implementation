@@ -1,0 +1,10 @@
+# data
+data/**
+
+# documents
+*.xlsx
+*.xls
+*.pdf
+*.docs
+*.ppt
+*.pptx
